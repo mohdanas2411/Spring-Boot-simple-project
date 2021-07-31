@@ -1,5 +1,6 @@
 # Spring-Boot-simple-project
-CRUD operations using spring boot
+Data Management System
+CRUD operations using spring boot, JPA, MySql.
 Screenshots
 
 ![image](https://user-images.githubusercontent.com/31250305/127749991-49c0fa98-1b72-4ec6-b9c1-8156c6779965.png)
